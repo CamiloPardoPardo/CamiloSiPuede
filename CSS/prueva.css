@@ -1,3 +1,9 @@
 head{
     background-color: aliceblue;
 }
+
+body{
+    background-color: aliceblue;
+    max-width: 5;
+    bottom: auto;
+}
