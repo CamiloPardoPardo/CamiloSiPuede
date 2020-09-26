@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/CamiloSiPuede/
+    - export DEPLOYPATH=/home/ooyfalbu/CamiloSiPuede/
     - /bin/cp -R CSS $DEPLOYPATH
