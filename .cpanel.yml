@@ -2,6 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/ooyfalbu/CamiloSiPuede/
-    - /bin/cp -R CSS $DEPLOYPATH
-    - /bin/cp -R JAVASCRIPT $DEPLOYPATH
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
